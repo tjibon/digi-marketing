@@ -1,0 +1,7 @@
+		
+	1. both side margin padding
+	2. font-family 
+	3. slider text.
+	4. some hover effect
+	5. some heading font size
+	 
